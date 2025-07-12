@@ -1,0 +1,61 @@
+h1{
+    text-decoration: underline;
+    text-align: center;
+}
+p{
+    font-size: large;
+}
+h3{
+    text-decoration: underline;
+    text-align: center;
+    font-size: large;
+    margin-top: 30px;
+}
+table {
+    border-collapse: collapse;
+    width: 30%;
+    height: 30%;
+    margin: 20px auto;
+    margin-bottom: 50px;
+}
+
+th, td {
+    border: 1px solid #ddd;
+    padding: 10px;
+    text-align: center;
+}
+
+th {
+    background-color: #8ab9ec;
+    color: white;
+}
+fieldset{
+    width: 350px;
+    height: 150px;
+    margin: auto;
+    border-radius: 5px;
+    font-size: large;
+}
+select{
+    border-radius: 2px;
+}
+legend{
+    margin: auto;    
+}
+button.calculate{
+    margin-left:160px ;
+    cursor: pointer;
+    
+}
+button.cancel{
+    margin-left:10px ;
+    cursor: pointer;
+    
+}
+div{
+    text-align: center;
+    font-size: large;
+}
+label{
+    margin-top: 20px;
+}
