@@ -18,11 +18,5 @@ A simple BMI Calculator built using **HTML, CSS, and JavaScript**.
 [Click here to view the BMI Calculator](https://architha-24.github.io/BMI-Calculator/)
 
 
-
-## 📸 Screenshot
-
-![BMI Calculator Screenshot]("C:\Users\architha\OneDrive\Desktop\BMI Calculator\Screenshot.png")
-
-
 ## 📝 Author
 Architha Udugula
