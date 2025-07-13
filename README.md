@@ -12,11 +12,5 @@ A simple BMI Calculator built using **HTML, CSS, and JavaScript**.
 2. Open `index.html` in your browser.
 3. Enter your height and weight to calculate your BMI.
 
-
-## 🌐 Live Demo
-
-[Click here to view the BMI Calculator](https://architha-24.github.io/BMI-Calculator/)
-
-
 ## 📝 Author
 Architha Udugula
