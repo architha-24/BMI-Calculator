@@ -24,11 +24,11 @@ document.getElementById('calculate').addEventListener('click', function () {
     let bmi = weight / (height * height);
     let category = "";
 
-    if (bmi < 18.5) {
+    if (bmi < 18) {
         category = "Underweight";
-    } else if (bmi < 24.9) {
+    } else if (bmi < 25) {
         category = "Normal weight";
-    } else if (bmi < 29.9) {
+    } else if (bmi < 40) {
         category = "Overweight";
     } else {
         category = "Obese";
